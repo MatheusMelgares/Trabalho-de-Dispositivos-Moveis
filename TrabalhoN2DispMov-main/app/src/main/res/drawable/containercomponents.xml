@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--Utilizado um shape para criar o container onde os componentes ficarão armazenados.-->
+
+    <!--Cor do container.-->
+    <solid android:color="@color/white"/>
+
+    <!--Código para o arredondamento dos cantos do container-->
+    <corners android:radius="20dp"/>
+
+</shape>

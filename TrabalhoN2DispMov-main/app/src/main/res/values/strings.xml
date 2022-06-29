@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">TrabalhoMark01</string>
+
+    <string name="entrar">Entrar</string>
+    <string name="text_cadastro">Crie uma conta clicando aqui</string>
+    <string name="Title_cadastro">Tela de Cadastro</string>
+    <string name="Title_ResetSenha">Recuperação de senha</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="reset">Recuperação de Senha</string>
+    <string name="text_planos">Planos</string>
+    <string name="text_pagamentos">Dados Cartão</string>
+    <string name="text_recuperar_senha">Recuperar Senha</string>
+    <string name="text_salvar_dados_cartao">Salvar</string>
+
+    <string name="enviar">Enviar</string>
+
+    <string-array name="opçoes_pagamento">
+        <item>Dinheiro</item>
+        <item>Pix</item>
+        <item>Cartao Débito</item>
+        <item>Cartão de Crédito</item>
+    </string-array>
+
+    <string-array name="sexoopcoes">
+        <item>Sexo</item>
+        <item>Masculino</item>
+        <item>Ferminino</item>
+        <item>Não Informado</item>
+    </string-array>
+
+
+</resources>

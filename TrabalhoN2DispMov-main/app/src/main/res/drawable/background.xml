@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--Criado o Backgroud tanto do App quanto do botáo Salvar e Cadastrar.-->
+    <!--Com o @color, puxo as cores no values/colors.xml-->
+    <!--Utilizo o android:angle para 90* para o degrade ficar de baixo para cima.-->
+
+    <gradient
+        android:startColor="@color/Pink"
+        android:centerColor="@color/Roxo"
+        android:endColor="@color/Blue"
+        android:angle="90"/>
+
+</shape>
